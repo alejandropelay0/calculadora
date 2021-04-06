@@ -1,2 +1,2 @@
 # calculadora
-Proyecto de la calculador
+Proyecto de la calculadora
